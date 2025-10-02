@@ -37,20 +37,20 @@
 
 \## 🧰 Lệnh Git được dùng nhiều nhất
 
-```bash
+- git status
 
-git status
+- git add
 
-git add .
+- git commit -m "..."
 
-git commit -m "..."
+- git push
 
-git push
+- git pull
 
-git pull
+- git checkout -b <ten-nhanh>
 
-git checkout -b <ten-nhanh>
+- git merge <ten-nhanh>
 
-git merge
+- git log --oneline --graph
 
-
+- git revert <commit>
